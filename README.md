@@ -1,4 +1,10 @@
-# Machine Learning Tutorials
+## Use Cases
+- [ ] Artificial Intelligence Applications: Data Science Meets Procurement: https://tinyurl.com/y9xxzquk.
+
+
+## Machine Learning
+- [ ] Learning Machine Learning and NLP from 187 Quora Questions: https://tinyurl.com/yd5dhs3g.
+- [ ] The 10 Statistical Techniques Data Scientists Need to Master: https://towardsdatascience.com/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7.
 
 ## Deep Learning
   - [ ] Everything you need to know about Neural Networks, https://medium.com/@matelabs_ai/everything-you-need-to-know-about-neural-networks-8988c3ee4491.
@@ -28,3 +34,7 @@
   - Rodrigo Benenson: http://rodrigob.github.io/.
   - Ujjwal Karn: https://ujjwalkarn.me/. 
   
+  ## Career
+  - [ ] [45 Ways to Activate Your Data Science Career] (https://tinyurl.com/yav66hr6)
+  - [ ] [Advice For New and Junior Data Scientists](https://tinyurl.com/yajs6chb)
+  - [ ] [Doing Data Science at Twitter](https://tinyurl.com/nl6jtjs)
