@@ -1,6 +1,7 @@
 # Machine Learning Tutorials
 
 ## Deep Learning
+  - [ ] Everything you need to know about Neural Networks, https://medium.com/@matelabs_ai/everything-you-need-to-know-about-neural-networks-8988c3ee4491.
   - [x] A Quick Introduction to Neural Networks: https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/.
   - [x] Role of Bias in Neural Networks: https://stackoverflow.com/questions/2480650/role-of-bias-in-neural-networks.
   - [x] How do you explain back propagation algorithm to a beginner in neural network?: https://www.quora.com/How-do-you-explain-back-propagation-algorithm-to-a-beginner-in-neural-network/answer/Hemanth-Kumar-Mantri.
