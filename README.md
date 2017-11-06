@@ -46,3 +46,4 @@
   - [ ] [45 Ways to Activate Your Data Science Career](https://tinyurl.com/yav66hr6)
   - [ ] [Advice For New and Junior Data Scientists](https://tinyurl.com/yajs6chb)
   - [ ] [Doing Data Science at Twitter](https://tinyurl.com/nl6jtjs)
+  - [ ] [my story with Deep Learning and Neural Networks — part I](https://towardsdatascience.com/my-story-with-deep-learning-and-neural-networks-part-i-a751c7d148c)
