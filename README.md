@@ -1,10 +1,10 @@
 ## Use Cases
 - [ ] [Artificial Intelligence Applications: Data Science Meets Procurement](https://tinyurl.com/y9xxzquk)
 
-
 ## Machine Learning
 - [ ] [Learning Machine Learning and NLP from 187 Quora Questions](https://tinyurl.com/yd5dhs3g)
 - [ ] [The 10 Statistical Techniques Data Scientists Need to Master](https://towardsdatascience.com/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7)
+- [ ] [Gradient Descent](https://towardsdatascience.com/gradient-descent-is-a-first-order-iterative-optimization-algorithm-wikipedia-4d2174528bfa)
 
 ## Deep Learning
   - [ ] [Everything you need to know about Neural Networks](https://medium.com/@matelabs_ai/everything-you-need-to-know-about-neural-networks-8988c3ee4491)
@@ -14,11 +14,19 @@
   - [x] [Can you give a visual explanation for the back propagation algorithm for neural networks?](https://github.com/rasbt/python-machine-learning-book/blob/master/faq/visual-backpropagation.md) 
   - [x] [Principles of training multi-layer neural network using backpropagation](http://home.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)
   - [ ] [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+  - [ ] [Neural Network Architectures](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba)
   
   ## Image Classification
   - [ ] [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
   - [ ] [Learning Multiple Layers of Features from Tiny Images](http://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf)
-    
+  
+  ## Search
+  - [ ] [What every software engineer should know about search](https://tinyurl.com/y8y7xbmu)
+  - [ ] [A dive into spatial search algorithms](https://blog.mapbox.com/a-dive-into-spatial-search-algorithms-ebd0c5e39d2a)
+  
+  ## Personalization
+  - [ ] [Personalization Engine](https://medium.com/@shivama205/personalization-engine-af95c4396e34)
+  
   ## Books
   - [ ] [Think Stats](http://greenteapress.com/thinkstats/html/index.html) 
   
