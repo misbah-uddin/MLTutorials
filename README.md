@@ -45,8 +45,11 @@
 - [ ] sklearn.pipeline.Pipeline(http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) 
 
 ## Style Guide
-- [ ] [LowClass Python: Style Guide for Data Scientists
-](http://columbia-applied-data-science.github.io/pages/lowclass-python-style-guide.html)
+- [ ] [LowClass Python: Style Guide for Data Scientists](http://columbia-applied-data-science.github.io/pages/lowclass-python-style-guide.html)
+
+## Production
+- [x] [Continuous Integration for ML Projects](https://medium.com/onfido-tech/continuous-integration-for-ml-projects-e11bc1a4d34f)
+- [x] [Don’t be afraid of the big bad blob!](https://medium.com/onfido-tech/dont-be-afraid-of-the-big-bad-blob-3da567f7a67b)
 
 ## Blogs and Githubs
 - [Allen Downey](https://github.com/AllenDowney)
