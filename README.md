@@ -9,16 +9,23 @@
 ## Deep Learning
 - [ ] [Everything you need to know about Neural Networks](https://medium.com/@matelabs_ai/everything-you-need-to-know-about-neural-networks-8988c3ee4491)
 - [x] [A Quick Introduction to Neural Networks](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
+- [x] [What is the difference between deep learning and usual machine learning?](https://github.com/rasbt/python-machine-learning-book/blob/master/faq/difference-deep-and-normal-learning.md)
 - [x] [Role of Bias in Neural Networks](https://stackoverflow.com/questions/2480650/role-of-bias-in-neural-networks)
 - [x] [How do you explain back propagation algorithm to a beginner in neural network?](https://www.quora.com/How-do-you-explain-back-propagation-algorithm-to-a-beginner-in-neural-network/answer/Hemanth-Kumar-Mantri)
 - [x] [Can you give a visual explanation for the back propagation algorithm for neural networks?](https://github.com/rasbt/python-machine-learning-book/blob/master/faq/visual-backpropagation.md) 
 - [x] [Principles of training multi-layer neural network using backpropagation](http://home.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)
-- [ ] [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 - [ ] [Neural Network Architectures](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba)
   
-## Image Classification
+## CNN
 - [ ] [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+- [x] [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+- [ ] [Convnet: Implementing Convolution Layer with Numpy](https://wiseodd.github.io/techblog/2016/07/16/convnet-conv-layer/)
 - [ ] [Learning Multiple Layers of Features from Tiny Images](http://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf)
+- [ ] [How is a convolutional neural network able to learn invariant features?](https://www.quora.com/How-is-a-convolutional-neural-network-able-to-learn-invariant-features)
+- [ ] [Implementing a Neural Network from Scratch in Python – An Introduction](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
+- [ ] [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
+- [ ] [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+
   
 ## Search
 - [ ] [What every software engineer should know about search](https://tinyurl.com/y8y7xbmu)
