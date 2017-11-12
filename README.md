@@ -25,6 +25,7 @@
 - [ ] [Implementing a Neural Network from Scratch in Python – An Introduction](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
 - [ ] [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 - [ ] [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+- [ ] [Tensorflow tutorial: Convolutional Neural Networks](https://www.tensorflow.org/tutorials/deep_cnn)
 
   
 ## Search
