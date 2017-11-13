@@ -88,5 +88,4 @@
 - [Python Deliberate Practice: Robert Chang](https://github.com/robert8138/python-deliberate-practice)
 
 ## Competitons
-
--[ ] [Some kaggle_winners](https://github.com/vi3k6i5/kaggle_winners/blob/master/winning_solutions.md)
+- [ ] [Some kaggle_winners](https://github.com/vi3k6i5/kaggle_winners/blob/master/winning_solutions.md)
