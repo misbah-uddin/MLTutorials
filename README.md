@@ -43,8 +43,10 @@
 -[ ] [7 Important Model Evaluation Error Metrics Everyone should know](https://www.analyticsvidhya.com/blog/2016/02/7-important-model-evaluation-error-metrics/)
   
 ## Books
-- [ ] [Think Stats](http://greenteapress.com/thinkstats/html/index.html) 
-  
+- [ ] [Think Stats](http://greenteapress.com/thinkstats/html/index.html)
+- [ ] [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+- [ ] [WHY: A GUIDE TO FINDING AND USING CAUSES](http://dl.farinsoft.ir/ebooks/Why-Guide-Finding-Using-Causes.pdf)
+
 ## Data Set
 - [ ] [The CIFAR-10 dataset and 100 dataset](http://www.cs.toronto.edu/~kriz/cifar.html)
 
@@ -64,13 +66,25 @@
 - [Andrew Ng](https://medium.com/@andrewng) 
 - [Rodrigo Benenson](http://rodrigob.github.io/)
 - [Ujjwal Karn](https://ujjwalkarn.me/)
-- [Open Data Science Blog](https://opendatascience.com/?__hstc=19222759.82373e832eb9e3e3dd2975de6d59a6bf.1510093375062.1510093375062.1510093375062.1&__hssc=19222759.3.1510093375062&__hsfp=925255337) 
+- [Yanir Seroussi](https://yanirseroussi.com/)
+- [Open Data Science Blog](https://opendatascience.com/?__hstc=19222759.82373e832eb9e3e3dd2975de6d59a6bf.1510093375062.1510093375062.1510093375062.1&__hssc=19222759.3.1510093375062&__hsfp=925255337)
+
+## Statistics
+- [ ] [Basic Statistics Every Data Scientist Should Know](https://towardsdatascience.com/statistics-review-for-data-scientists-and-management-df8f94760221)
   
 ## Career
 - [ ] [45 Ways to Activate Your Data Science Career](https://tinyurl.com/yav66hr6)
 - [x] [Advice For New and Junior Data Scientists](https://tinyurl.com/yajs6chb)
 - [ ] [Doing Data Science at Twitter](https://tinyurl.com/nl6jtjs)
 - [ ] [my story with Deep Learning and Neural Networks — part I](https://towardsdatascience.com/my-story-with-deep-learning-and-neural-networks-part-i-a751c7d148c)
+- [x] How to Become a Data Scientist: [(Part 1)](https://towardsdatascience.com/how-to-become-a-data-scientist-part-1-3-8706a62b809e),
+      [(Part 2)](https://medium.com/@Experfy/how-to-become-a-data-scientist-part-2-3-68a2c4125b32), 
+      [(Part 3)](https://medium.com/@Experfy/how-to-become-a-data-scientist-part-3-3-3a66738e604a) 
+- [ ] [Data Scientist: Owning Up to the Title](https://www.linkedin.com/pulse/20141202183759-103457178-data-scientist-owning-up-to-the-title/?trk=prof-post)
+- [x] [The Only Skill you Should be Concerned With](https://www.linkedin.com/pulse/20141113191054-103457178-the-only-skill-you-should-be-concerned-with/?trk=hp-feed-article-title-like)
+- [ ] [The Best Advice From Quora on ‘How to Learn Machine Learning’](https://www.kdnuggets.com/2015/10/learning-machine-learning-quora.html)
+- [ ] [Things you need to know about becoming a Data Scientist](https://towardsdatascience.com/things-you-need-to-know-about-becoming-a-data-scientist-2467a3f61457)
+- [ ] [WHY YOU SHOULD STOP WORRYING ABOUT DEEP LEARNING AND DEEPEN YOUR UNDERSTANDING OF CAUSALITY INSTEAD](https://yanirseroussi.com/2016/02/14/why-you-should-stop-worrying-about-deep-learning-and-deepen-your-understanding-of-causality-instead/)
  
 ## Conferences and Meetups
 - [Open Data Science](https://odsc.com/)
