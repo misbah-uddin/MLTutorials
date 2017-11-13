@@ -26,11 +26,6 @@
 - [ ] [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 - [ ] [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 - [ ] [Tensorflow tutorial: Convolutional Neural Networks](https://www.tensorflow.org/tutorials/deep_cnn)
-
-  
-## Search
-- [ ] [What every software engineer should know about search](https://tinyurl.com/y8y7xbmu)
-- [ ] [A dive into spatial search algorithms](https://blog.mapbox.com/a-dive-into-spatial-search-algorithms-ebd0c5e39d2a)
   
 ## Personalization
 - [ ] [Personalization Engine](https://medium.com/@shivama205/personalization-engine-af95c4396e34)
@@ -40,7 +35,7 @@
 - [ ] [Symmetric mean absolute percentage error](https://en.wikipedia.org/wiki/Symmetric_mean_absolute_percentage_error)
 
 ## Explanation and Visualization
--[ ] [7 Important Model Evaluation Error Metrics Everyone should know](https://www.analyticsvidhya.com/blog/2016/02/7-important-model-evaluation-error-metrics/)
+- [ ] [7 Important Model Evaluation Error Metrics Everyone should know](https://www.analyticsvidhya.com/blog/2016/02/7-important-model-evaluation-error-metrics/)
   
 ## Books
 - [ ] [Think Stats](http://greenteapress.com/thinkstats/html/index.html)
@@ -91,3 +86,7 @@
 
 ## Study List
 - [Python Deliberate Practice: Robert Chang](https://github.com/robert8138/python-deliberate-practice)
+
+## Competitons
+
+-[ ] [Some kaggle_winners](https://github.com/vi3k6i5/kaggle_winners/blob/master/winning_solutions.md)
