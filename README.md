@@ -15,7 +15,8 @@
 - [x] [Can you give a visual explanation for the back propagation algorithm for neural networks?](https://github.com/rasbt/python-machine-learning-book/blob/master/faq/visual-backpropagation.md) 
 - [x] [Principles of training multi-layer neural network using backpropagation](http://home.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)
 - [ ] [Neural Network Architectures](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba)
-  
+- [ ] [A Glossary of Deep Learning](https://medium.com/deeper-learning/a-glossary-of-deep-learning-9cb6292e087e)
+
 ## CNN
 - [ ] [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
 - [x] [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
