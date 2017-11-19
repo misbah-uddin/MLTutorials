@@ -27,6 +27,7 @@
 - [ ] [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 - [ ] [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 - [ ] [Tensorflow tutorial: Convolutional Neural Networks](https://www.tensorflow.org/tutorials/deep_cnn)
+- [x] [Recommending music on Spotify with deep learning](http://benanne.github.io/2014/08/05/spotify-cnns.html#collaborativefiltering)
   
 ## Personalization
 - [ ] [Personalization Engine](https://medium.com/@shivama205/personalization-engine-af95c4396e34)
@@ -64,9 +65,12 @@
 - [Ujjwal Karn](https://ujjwalkarn.me/)
 - [Yanir Seroussi](https://yanirseroussi.com/)
 - [Open Data Science Blog](https://opendatascience.com/?__hstc=19222759.82373e832eb9e3e3dd2975de6d59a6bf.1510093375062.1510093375062.1510093375062.1&__hssc=19222759.3.1510093375062&__hsfp=925255337)
+- [Sander Dieleman](http://benanne.github.io/)
+- [Erik Bernhardsson](https://erikbern.com/)
 
 ## Statistics
 - [ ] [Basic Statistics Every Data Scientist Should Know](https://towardsdatascience.com/statistics-review-for-data-scientists-and-management-df8f94760221)
+- [http://docs.pymc.io/notebooks/survival_analysis.html] [Bayesian Survival Analysis]()
   
 ## Career
 - [ ] [45 Ways to Activate Your Data Science Career](https://tinyurl.com/yav66hr6)
@@ -90,3 +94,8 @@
 
 ## Competitons
 - [ ] [Some kaggle_winners](https://github.com/vi3k6i5/kaggle_winners/blob/master/winning_solutions.md)
+
+## Analytics
+- [x] [Conversion rates — you are (most likely) computing them wrong](https://erikbern.com/2017/05/23/conversion-rates-you-are-most-likely-computing-them-wrong.html)
+- [ ] [The half-life of code & the ship of Theseus](https://erikbern.com/2016/12/05/the-half-life-of-code.html)
+- [ ] [WTTE-RNN - Less hacky churn prediction](https://ragulpr.github.io/2016/12/22/WTTE-RNN-Hackless-churn-modeling/)
