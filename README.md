@@ -28,6 +28,7 @@
 - [ ] [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 - [ ] [Tensorflow tutorial: Convolutional Neural Networks](https://www.tensorflow.org/tutorials/deep_cnn)
 - [x] [Recommending music on Spotify with deep learning](http://benanne.github.io/2014/08/05/spotify-cnns.html#collaborativefiltering)
+- [ ] [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)[You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), [YOLO9000: Better, Faster, Stronger](https://arxiv.org/pdf/1612.08242.pdf), [Bounding box object detectors: understanding YOLO, You Look Only Once](http://christopher5106.github.io/object/detectors/2017/08/10/bounding-box-object-detectors-understanding-yolo.html)
   
 ## Personalization
 - [ ] [Personalization Engine](https://medium.com/@shivama205/personalization-engine-af95c4396e34)
