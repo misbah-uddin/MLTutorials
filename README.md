@@ -5,6 +5,7 @@
 - [ ] [Learning Machine Learning and NLP from 187 Quora Questions](https://tinyurl.com/yd5dhs3g)
 - [ ] [The 10 Statistical Techniques Data Scientists Need to Master](https://towardsdatascience.com/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7)
 - [ ] [Gradient Descent](https://towardsdatascience.com/gradient-descent-is-a-first-order-iterative-optimization-algorithm-wikipedia-4d2174528bfa)
+- [x] [Machine Learning Done Wrong](http://ml.posthaven.com/machine-learning-done-wrong)
 
 ## Deep Learning
 - [ ] [Everything you need to know about Neural Networks](https://medium.com/@matelabs_ai/everything-you-need-to-know-about-neural-networks-8988c3ee4491)
@@ -39,6 +40,8 @@
 
 ## Explanation and Visualization
 - [ ] [7 Important Model Evaluation Error Metrics Everyone should know](https://www.analyticsvidhya.com/blog/2016/02/7-important-model-evaluation-error-metrics/)
+- [ ] [Learning How to Build a Web Application]() 
+
   
 ## Books
 - [ ] [Think Stats](http://greenteapress.com/thinkstats/html/index.html)
@@ -68,6 +71,7 @@
 - [Open Data Science Blog](https://opendatascience.com/?__hstc=19222759.82373e832eb9e3e3dd2975de6d59a6bf.1510093375062.1510093375062.1510093375062.1&__hssc=19222759.3.1510093375062&__hsfp=925255337)
 - [Sander Dieleman](http://benanne.github.io/)
 - [Erik Bernhardsson](https://erikbern.com/)
+- [Cheng-Tao Chu](http://ml.posthaven.com/)
 
 ## Statistics
 - [ ] [Basic Statistics Every Data Scientist Should Know](https://towardsdatascience.com/statistics-review-for-data-scientists-and-management-df8f94760221)
@@ -76,7 +80,7 @@
 ## Career
 - [ ] [45 Ways to Activate Your Data Science Career](https://tinyurl.com/yav66hr6)
 - [x] [Advice For New and Junior Data Scientists](https://tinyurl.com/yajs6chb)
-- [ ] [Doing Data Science at Twitter](https://tinyurl.com/nl6jtjs)
+- [x] [Doing Data Science at Twitter](https://tinyurl.com/nl6jtjs)
 - [ ] [my story with Deep Learning and Neural Networks — part I](https://towardsdatascience.com/my-story-with-deep-learning-and-neural-networks-part-i-a751c7d148c)
 - [x] How to Become a Data Scientist: [(Part 1)](https://towardsdatascience.com/how-to-become-a-data-scientist-part-1-3-8706a62b809e),
       [(Part 2)](https://medium.com/@Experfy/how-to-become-a-data-scientist-part-2-3-68a2c4125b32), 
@@ -86,6 +90,7 @@
 - [ ] [The Best Advice From Quora on ‘How to Learn Machine Learning’](https://www.kdnuggets.com/2015/10/learning-machine-learning-quora.html)
 - [ ] [Things you need to know about becoming a Data Scientist](https://towardsdatascience.com/things-you-need-to-know-about-becoming-a-data-scientist-2467a3f61457)
 - [ ] [WHY YOU SHOULD STOP WORRYING ABOUT DEEP LEARNING AND DEEPEN YOUR UNDERSTANDING OF CAUSALITY INSTEAD](https://yanirseroussi.com/2016/02/14/why-you-should-stop-worrying-about-deep-learning-and-deepen-your-understanding-of-causality-instead/)
+- [ ] [5 Skills You Need to Become a Machine Learning Engineer](https://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html)
  
 ## Conferences and Meetups
 - [Open Data Science](https://odsc.com/)
