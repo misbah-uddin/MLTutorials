@@ -72,6 +72,7 @@
 - [Sander Dieleman](http://benanne.github.io/)
 - [Erik Bernhardsson](https://erikbern.com/)
 - [Cheng-Tao Chu](http://ml.posthaven.com/)
+- [YellowBlog](https://blog.myyellowroad.com/)
 
 ## Statistics
 - [ ] [Basic Statistics Every Data Scientist Should Know](https://towardsdatascience.com/statistics-review-for-data-scientists-and-management-df8f94760221)
