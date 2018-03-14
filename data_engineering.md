@@ -10,6 +10,7 @@ https://engineering.linkedin.com/distributed-systems/log-what-every-software-eng
 ### ETL
 
 - [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
+- [https://www.datascienceatthecommandline.com/index.html](https://www.datascienceatthecommandline.com/index.html)
 
 ### Platforms
 - [Apache Airflow and the Future of Data Engineering: A Q&A](https://medium.com/the-astronomer-journey/airflow-and-the-future-of-data-engineering-a-q-a-266f68d956a9)
