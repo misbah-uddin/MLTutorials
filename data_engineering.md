@@ -7,10 +7,11 @@
 - [The Log: What every software engineer should know about real-time data's unifying abstraction](
 https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 
-### ETL
+### ETL and Pipeline
 
 - [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
-- [https://www.datascienceatthecommandline.com/index.html](https://www.datascienceatthecommandline.com/index.html)
+- [Data Science at the Command Line](https://www.datascienceatthecommandline.com/index.html)
+- [Stream Twitter Data into BigQuery with Cloud Dataprep](https://medium.com/google-cloud/stream-twitter-data-into-bigquery-with-cloud-dataprep-73aa8998fcc1)
 
 ### Platforms
 - [Apache Airflow and the Future of Data Engineering: A Q&A](https://medium.com/the-astronomer-journey/airflow-and-the-future-of-data-engineering-a-q-a-266f68d956a9)
