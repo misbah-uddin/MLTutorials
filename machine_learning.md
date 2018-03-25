@@ -33,6 +33,10 @@
   
 ## Personalization
 - [ ] [Personalization Engine](https://medium.com/@shivama205/personalization-engine-af95c4396e34)
+
+## Classification
+
+- [ ] [A Statistical Analysis of Titanic with ML Models](https://www.kaggle.com/hammadzahidali/classification-tutorial-machine-learning)  
   
 ## Validation
 - [ ] [Cross-validation for time series](https://robjhyndman.com/hyndsight/tscv/)
