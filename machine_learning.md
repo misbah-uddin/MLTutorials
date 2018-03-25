@@ -36,7 +36,8 @@
 
 ## Classification
 
-- [ ] [A Statistical Analysis of Titanic with ML Models](https://www.kaggle.com/hammadzahidali/classification-tutorial-machine-learning)  
+- [ ] [A Statistical Analysis of Titanic with ML Models](https://www.kaggle.com/hammadzahidali/classification-tutorial-machine-learning)
+- [ ] [Classification Tutorial: Machine Learning](https://www.kaggle.com/hammadzahidali/classification-tutorial-machine-learning)
   
 ## Validation
 - [ ] [Cross-validation for time series](https://robjhyndman.com/hyndsight/tscv/)
