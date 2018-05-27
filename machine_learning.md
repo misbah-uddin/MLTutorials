@@ -7,6 +7,9 @@
 - [ ] [Gradient Descent](https://towardsdatascience.com/gradient-descent-is-a-first-order-iterative-optimization-algorithm-wikipedia-4d2174528bfa)
 - [x] [Machine Learning Done Wrong](http://ml.posthaven.com/machine-learning-done-wrong)
 
+## NLP
+- [ ] [Over 150 of the Best Machine Learning, NLP, and Python Tutorials I’ve Found](https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78) 
+
 ## Deep Learning
 - [ ] [Everything you need to know about Neural Networks](https://medium.com/@matelabs_ai/everything-you-need-to-know-about-neural-networks-8988c3ee4491)
 - [x] [A Quick Introduction to Neural Networks](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
