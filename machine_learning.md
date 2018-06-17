@@ -50,11 +50,16 @@
 - [ ] [7 Important Model Evaluation Error Metrics Everyone should know](https://www.analyticsvidhya.com/blog/2016/02/7-important-model-evaluation-error-metrics/)
 - [ ] [Learning How to Build a Web Application]() 
 
-## Books
+## Books & Tutorials
 - [ ] [Think Stats](http://greenteapress.com/thinkstats/html/index.html)
 - [ ] [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 - [ ] [WHY: A GUIDE TO FINDING AND USING CAUSES](http://dl.farinsoft.ir/ebooks/Why-Guide-Finding-Using-Causes.pdf)
 - [ ] [Data Science for Startups](https://bgweber.github.io/)
+- [ ] [Scikit-learn tutorial: statistical-learning for sientific data processing](http://gael-varoquaux.info/scikit-learn-tutorial/)
+- [ ] [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf)
+- [ ] [Mining of Massive Datasets](http://mmds.org/#ver21)
+- [ ] [Machine Learning: An Algorithmic Perspective](https://seat.massey.ac.nz/personal/s.r.marsland/MLBook.html)
+- [ ] [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 
 ## Data Set
 - [ ] [The CIFAR-10 dataset and 100 dataset](http://www.cs.toronto.edu/~kriz/cifar.html)
