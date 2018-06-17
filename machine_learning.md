@@ -50,7 +50,6 @@
 - [ ] [7 Important Model Evaluation Error Metrics Everyone should know](https://www.analyticsvidhya.com/blog/2016/02/7-important-model-evaluation-error-metrics/)
 - [ ] [Learning How to Build a Web Application]() 
 
-  
 ## Books
 - [ ] [Think Stats](http://greenteapress.com/thinkstats/html/index.html)
 - [ ] [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
@@ -101,6 +100,7 @@
 - [ ] [Things you need to know about becoming a Data Scientist](https://towardsdatascience.com/things-you-need-to-know-about-becoming-a-data-scientist-2467a3f61457)
 - [ ] [WHY YOU SHOULD STOP WORRYING ABOUT DEEP LEARNING AND DEEPEN YOUR UNDERSTANDING OF CAUSALITY INSTEAD](https://yanirseroussi.com/2016/02/14/why-you-should-stop-worrying-about-deep-learning-and-deepen-your-understanding-of-causality-instead/)
 - [ ] [5 Skills You Need to Become a Machine Learning Engineer](https://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html)
+- [x] [Data Science and Machine Learning Interview Questions](https://towardsdatascience.com/data-science-and-machine-learning-interview-questions-3f6207cf040b)
  
 ## Conferences and Meetups
 - [Open Data Science](https://odsc.com/)
