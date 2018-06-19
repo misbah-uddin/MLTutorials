@@ -115,6 +115,7 @@
 
 ## Competitons
 - [ ] [Some kaggle_winners](https://github.com/vi3k6i5/kaggle_winners/blob/master/winning_solutions.md)
+- [ ] [Home Depot Product Search Relevance](https://www.kaggle.com/c/home-depot-product-search-relevance/leaderboard), [3rd Rank solution](https://github.com/ChenglongChen/Kaggle_HomeDepot)
 
 ## Analytics
 - [x] [Conversion rates — you are (most likely) computing them wrong](https://erikbern.com/2017/05/23/conversion-rates-you-are-most-likely-computing-them-wrong.html)
