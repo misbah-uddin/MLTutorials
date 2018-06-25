@@ -106,6 +106,7 @@
 - [ ] [WHY YOU SHOULD STOP WORRYING ABOUT DEEP LEARNING AND DEEPEN YOUR UNDERSTANDING OF CAUSALITY INSTEAD](https://yanirseroussi.com/2016/02/14/why-you-should-stop-worrying-about-deep-learning-and-deepen-your-understanding-of-causality-instead/)
 - [ ] [5 Skills You Need to Become a Machine Learning Engineer](https://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html)
 - [x] [Data Science and Machine Learning Interview Questions](https://towardsdatascience.com/data-science-and-machine-learning-interview-questions-3f6207cf040b)
+- [x] [How to present your data science portfolio on Github](http://www.pybloggers.com/2017/01/how-to-present-your-data-science-portfolio-on-github/)
  
 ## Conferences and Meetups
 - [Open Data Science](https://odsc.com/)
