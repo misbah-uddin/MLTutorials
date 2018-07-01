@@ -6,9 +6,11 @@
 - [ ] [The 10 Statistical Techniques Data Scientists Need to Master](https://towardsdatascience.com/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7)
 - [ ] [Gradient Descent](https://towardsdatascience.com/gradient-descent-is-a-first-order-iterative-optimization-algorithm-wikipedia-4d2174528bfa)
 - [x] [Machine Learning Done Wrong](http://ml.posthaven.com/machine-learning-done-wrong)
+- [ ] [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 
 ## NLP
-- [ ] [Over 150 of the Best Machine Learning, NLP, and Python Tutorials I’ve Found](https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78) 
+- [ ] [Over 150 of the Best Machine Learning, NLP, and Python Tutorials I’ve Found](https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
+- [ ] [A Practitioner's Guide to Natural Language Processing (Part I) — Processing & Understanding Text](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72)
 
 ## Deep Learning
 - [ ] [Everything you need to know about Neural Networks](https://medium.com/@matelabs_ai/everything-you-need-to-know-about-neural-networks-8988c3ee4491)
