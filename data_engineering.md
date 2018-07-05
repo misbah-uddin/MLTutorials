@@ -12,6 +12,9 @@
 ### Platforms
 - [Apache Airflow and the Future of Data Engineering: A Q&A](https://medium.com/the-astronomer-journey/airflow-and-the-future-of-data-engineering-a-q-a-266f68d956a9)
 
+### Machine flow
+- [GUI-fying the Machine Learning Workflow: Towards Rapid Discovery of Viable Pipelines](https://towardsdatascience.com/gui-fying-the-machine-learning-workflow-towards-rapid-discovery-of-viable-pipelines-cab2552c909f)
+
 ### Career
 
 - [A Self-Study List for Data Engineers and Aspiring Data Architects](https://blog.treasuredata.com/blog/2016/03/15/self-study-list-for-data-engineers-and-aspiring-data-architects/)
@@ -19,3 +22,4 @@
 ### People
 - [Maxime Beauchemin](https://github.com/mistercrunch)
 - [Jay Kreps](https://www.linkedin.com/in/jaykreps/)
+- [Sean McClure](https://towardsdatascience.com/@seanaaron100)
