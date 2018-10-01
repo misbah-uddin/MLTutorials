@@ -25,7 +25,8 @@
 
 - [A Self-Study List for Data Engineers and Aspiring Data Architects](https://blog.treasuredata.com/blog/2016/03/15/self-study-list-for-data-engineers-and-aspiring-data-architects/)
 - A Beginner’s Guide to Data Engineering: [Part I](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7), [Part II](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71), [Part 3](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0).
-- Building The Analytics Team At Wish: [Part 1](https://medium.com/wish-engineering/scaling-analytics-at-wish-619eacb97d16), [Part 2](https://medium.com/wish-engineering/scaling-the-analytics-team-at-wish-part-2-scaling-data-engineering-6bf7fd842dc2)
+- Building The Analytics Team At Wish: [Part 1](https://medium.com/wish-engineering/scaling-analytics-at-wish-619eacb97d16), [Part 2](https://medium.com/wish-engineering/scaling-the-analytics-team-at-wish-part-2-scaling-data-engineering-6bf7fd842dc2), [Part 3](https://medium.com/wish-engineering/scaling-the-analytics-team-at-wish-part-3-scaling-data-analysis-7562c70e6413), [Part 4](https://medium.com/wish-engineering/scaling-the-analytics-team-at-wish-part-4-recruiting-2a9823b9f5a)
+- [3 Questions To Help You Prepare For A Data Engineering Interview](https://towardsdatascience.com/3-questions-you-should-be-able-to-answer-in-a-data-engineering-interview-8dc845785be6)
 
 ### People
 - [Maxime Beauchemin](https://github.com/mistercrunch)
