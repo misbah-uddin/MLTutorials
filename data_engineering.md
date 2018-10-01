@@ -10,7 +10,7 @@
 - [Stream Twitter Data into BigQuery with Cloud Dataprep](https://medium.com/google-cloud/stream-twitter-data-into-bigquery-with-cloud-dataprep-73aa8998fcc1)
 - A Beginner’s Guide to Data Engineering: [Part I](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7), [Part II](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71)
 - [This one weird trick will simplify your ETL workflow](https://multithreaded.stitchfix.com/blog/2017/07/06/one-weird-trick/)
-- Building The Analytics Team At Wish: [Part 1](), [Part 2](https://medium.com/wish-engineering/scaling-the-analytics-team-at-wish-part-2-scaling-data-engineering-6bf7fd842dc2)
+- Building The Analytics Team At Wish: [Part 1](https://medium.com/wish-engineering/scaling-analytics-at-wish-619eacb97d16), [Part 2](https://medium.com/wish-engineering/scaling-the-analytics-team-at-wish-part-2-scaling-data-engineering-6bf7fd842dc2)
 
 ### Platforms
 - [Apache Airflow and the Future of Data Engineering: A Q&A](https://medium.com/the-astronomer-journey/airflow-and-the-future-of-data-engineering-a-q-a-266f68d956a9)
@@ -26,5 +26,7 @@
 - [Maxime Beauchemin](https://github.com/mistercrunch)
 - [Jay Kreps](https://www.linkedin.com/in/jaykreps/)
 - [Sean McClure](https://towardsdatascience.com/@seanaaron100)
-- [Robert Chang]
-- [Samson Hu]
+- [Robert Chang]()
+- [Samson Hu](https://medium.com/@samson_hu)
+- [Ben Weber]()
+- [Adnan Siddiqi](https://medium.com/@pknerd)
