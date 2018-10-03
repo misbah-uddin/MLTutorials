@@ -17,6 +17,7 @@
 - [Designing great data products](https://www.oreilly.com/ideas/drivetrain-approach-data-products)
 - [Getting Better at Machine Learning](https://medium.com/@rchang/getting-better-at-machine-learning-16b4dd913a1f)
 - [Using Machine Learning to Predict Value of Homes On Airbnb](https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d)
+- [Training machine learning models with Airflow and BigQuery](https://wecode.wepay.com/posts/training-machine-learning-models-with-airflow-and-bigquery)
 
 ### Platforms
 - [Apache Airflow and the Future of Data Engineering: A Q&A](https://medium.com/the-astronomer-journey/airflow-and-the-future-of-data-engineering-a-q-a-266f68d956a9)
